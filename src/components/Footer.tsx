@@ -83,11 +83,11 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <Mail className="w-5 h-5 text-cyan-400" />
-                <span>hello@flowcommute.com</span>
+                <span>business@thecabcompany.in</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <Phone className="w-5 h-5 text-cyan-400" />
-                <span>+91 98765 43210</span>
+                <span>+91 81231 78153</span>
               </div>
             </div>
           </div>
